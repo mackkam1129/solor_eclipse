@@ -1,1 +1,1 @@
-# solor_eclipse
+# eclips
